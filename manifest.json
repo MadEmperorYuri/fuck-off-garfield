@@ -1,6 +1,6 @@
 {
   "name": "Fuck Off, Garfield",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "manifest_version": 2,
   "description": "Remove subreddits from the front page when you're not logged in.",
   "homepage_url": "http://example.com",
