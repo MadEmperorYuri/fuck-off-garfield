@@ -1,6 +1,6 @@
 # Fuck Off, Garfield
 
-You know how it is. You're browsing reddit, and you're not logged in (too much effort). You're just mindlessly expanding any thumbnail that satisfies some unconcious heuristic. And suddenly, there he is. It's terrible. Lovecraft was sick, but these people... jesus.
+You know how it is. You're browsing reddit, and you're not logged in (too much effort). You're just mindlessly expanding any thumbnail that satisfies some unconscious heuristic. And suddenly, there he is. It's terrible. Lovecraft was sick, but these people... jesus.
 
 ```javascript
 let makeGarfieldFuckOff = function (settings) {
